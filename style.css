@@ -1,0 +1,224 @@
+.button{
+    background: url(notcoin1.jpg);
+        position: absolute;
+        
+        top: 240px;
+        left: 600px;
+    width: 350px;
+    height: 350px;
+        border-radius: 200px;
+        box-shadow: 0px 5px 10px #0000;
+        
+        
+        
+    }
+    
+    .text{
+        color: rgb(230, 230, 230);
+    text-align: center;
+        top: 100px;
+       font-size: 70px;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       text-shadow: 1px 1px 1px rgb(0, 0, 0), 0 0 1em 
+    }
+    
+    
+    .body{
+        background: url(fon.jpg)
+    }
+    
+    
+    .telegrambot{
+        width: 1112px;
+        height: 50px;
+        background-color: rgb(38, 37, 37);
+       margin-left: -10px;
+       margin-top: -200px;
+    }
+    
+    .notcointext{
+        color: rgb(255, 255, 255);
+        font-family: monospace;
+        font-size: 18px;
+        margin-top: -40px;
+       margin-left: 48%;
+        
+    }
+    
+    .bot{
+        color: rgb(202, 198, 194);
+        font-family: monospace;
+        font-size: 13px;
+        margin-top: -5px;
+        margin-left: 50%;
+    }
+    
+    .bronze{
+        left: 20%;
+        color: rgb(202, 198, 194);
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 19px;
+        margin-top: 100px;
+        margin-left: 47%;
+    }
+    
+    
+    
+    
+    .buttonboost{
+        background-color: rgb(249, 248, 248);
+        color: azure;
+        opacity: .4;
+        margin-left: 700px;
+        margin-top: 230px;
+        width: 300px;
+        height: 100px;
+        border-radius: 20px;
+        font-size: 20px;
+        color: aliceblue;
+        box-shadow: 0px 5px 10px #0000;
+        
+    }
+    
+    .buttontext{
+        text-decoration: none;
+        color: rgb(248, 248, 248);
+        font-size: 20px;
+       position: absolute;
+       top: 420px;
+       left: 900px;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       text-shadow: 1px 1px 1px rgb(0, 0, 0), 0 0 1em 
+       
+    }
+    
+    .frens{
+        text-decoration: none;
+        color: rgb(248, 248, 248);
+        font-size: 20px;
+       position: absolute;
+       top: 420px;
+       left: 715px;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       text-shadow: 1px 1px 1px rgb(0, 0, 0), 0 0 1em 
+    }
+    
+    .earn{
+        text-decoration: none;
+        color: rgb(248, 248, 248);
+        font-size: 20px;
+       position: absolute;
+       top: 420px;
+       left: 815px;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       text-shadow: 1px 1px 1px rgb(0, 0, 0), 0 0 1em 
+    }
+    
+    
+    
+    
+    .body1{
+        background-color: rgba(0, 0, 0, 0.949);
+    }
+    
+    .balance{
+        color: rgb(134, 134, 134);
+        font-size: 40px;
+        text-align: center;
+        position: absolute;
+        top: 100px;
+        left: 670px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    
+    .boosts2{
+        color: aliceblue;
+        font-size: 50px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        position: absolute;
+        margin-top: 200px;
+        margin-left: 300px;
+    }
+    
+    .panel2{
+        background-color: rgb(66, 67, 67);
+        opacity: .3;
+        width: 600px;
+        height: 700px;
+        position: absolute;
+        top: 300px;
+        left: 300px;
+        padding-left: 180px;
+        padding-right: 180px;
+        border-radius: 50px;
+    }
+    
+    
+    .back{
+        text-decoration: none;
+        color: rgb(248, 248, 248);
+        font-size: 30px;
+       position: absolute;
+       top: 20px;
+       left: 30px;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       text-shadow: 1px 1px 1px rgb(0, 0, 0), 0 0 1em 
+       
+    }
+
+        
+    @media screen and (max-width: 1367px) and (max-height: 769px){
+        button{
+            background: url(photo_5287239006804890604_x\ \(4\).png);
+        position: absolute;
+     top: 67%;
+     left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    width: 310px;
+    height: 310px;
+        border-radius: 200px;
+        box-shadow: 0px 5px 10px #0000;
+        }
+        
+        body{
+           background-image: url(https://kartinki.pics/uploads/posts/2022-12/thumbs/1669930168_35-kartinkin-net-p-oranzhevii-gradient-fon-pinterest-35.png);
+         
+            
+        }
+
+        
+    }
+
+
+    @media screen and (max-width: 1200px) {
+
+    }
+
+    @media screen and (max-width: 998px) {
+        
+    }
+
+    @media screen and (max-width: 768px) {
+        
+    }
+
+    @media screen and (max-width: 576px) and (max-height: 300px){
+        button{
+            background-color: rgb(223, 0, 0);
+            color: aqua;
+            width: 500px;
+        }
+        
+    }
+
+
+    .btn{
+        left: 5000px;
+    }
+
+
+    .click{
+    color: blue;
+    }
